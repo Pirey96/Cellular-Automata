@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\pirey\Desktop\GIT\personal\cellularAutomata\Cellular-Automota\Source.cpp(35,3): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\pirey\Desktop\GIT\personal\cellularAutomata\Cellular-Automota\Source.cpp(43,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\pirey\Desktop\GIT\personal\cellularAutomata\Cellular-Automota\Source.cpp(56,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Cellular-Automota.vcxproj -> C:\Users\pirey\Desktop\GIT\personal\cellularAutomata\Cellular-Automota\Debug\Cellular-Automota.exe

@@ -1,0 +1,2 @@
+C:\Users\pirey\Desktop\GIT\personal\cellularAutomata\Cellular-Automota\Debug\Cellular-Automota.exe
+C:\Users\pirey\Desktop\GIT\personal\cellularAutomata\Cellular-Automota\Debug\Cellular-Automota.pdb
